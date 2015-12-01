@@ -16,7 +16,7 @@
   <project path="device/oppo/find7op" name="kkfong/android_device_oppo_find7op" remote="github" revision="android-5.1-kk" />
   <project path="device/oppo/msm8974-common" name="kkfong/android_device_oppo_msm8974-common" remote="github" revision="android-5.1-kk" />
   <project path="frameworks/av-caf" name="kkfong/android_frameworks_av" remote="github" revision="android-5.1-caf-kk2-SnapdragonCamera" />
-  <project path="hardware/qcom/audio-caf-bfam" name="sultanxda/android_hardware_qcom_audio" remote="github" revision="android-5.1" />
+  <project path="hardware/qcom/audio-caf-bfam" name="kkfong/android_hardware_qcom_audio" remote="github" revision="android-5.1-kk" />
   <project path="hardware/qcom/display-caf-bfam" name="sultanxda/android_hardware_qcom_display" remote="github" revision="android-5.1" />
   <project path="hardware/qcom/media-caf-bfam" name="sultanxda/android_hardware_qcom_media" remote="github" revision="android-5.1" />
   <project path="hardware/ril" name="sultanxda/android_hardware_ril" remote="github" revision="android-5.1" />
@@ -26,7 +26,7 @@
   <project path="system/core" name="kkfong/android_system_core" remote="github" revision="android-5.1-kk" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="arm-eabi-4.8.git" remote="UberTC" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="arm-linux-androideabi-4.8.git" remote="UberTC" revision="master" />
-  <project path="packages/apps/SnapdragonCamera" name="kkfong/android_packages_apps_SnapdragonCamera" remote="github" revision="android-5.1-kk" />
+  <project path="packages/apps/SnapdragonCamera" name="sultanxda/android_packages_apps_SnapdragonCamera" remote="github" revision="cm-12.1-caf" />
 
  <!--Repositories to remove-->
   <remove-project name="platform/prebuilts/clang/darwin-x86/3.1" />
