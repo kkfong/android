@@ -41,8 +41,10 @@
   <remove-project name="platform/prebuilts/python/linux-x86/2.7.5"/>
 
   <remove-project name="android_hardware_ril"/>
+  <remove-project name="android_kernel_oppo_msm8974"/>
 
   <!--My local repo-->
   <project path="hardware/ril" name="kkfong/android_hardware_ril" remote="github" revision="android-6.0-caf-cherrypick" />
+  <project path="kernel/oppo/msm8974" name="kkfong/android_kernel_oppo_msm8974_omni" remote="github" revision="android-6.0-cherrypick" />
 
 </manifest>
