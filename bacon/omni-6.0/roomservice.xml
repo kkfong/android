@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Please do not manually edit this file-->
 <manifest>
-  <project name="android_device_oppo_find7" path="device/oppo/find7" remote="omnirom" revision="android-6.0" />
-  <project name="android_hardware_qcom_display-caf-msm8974" path="hardware/qcom/display-caf-msm8974" remote="omnirom" revision="android-6.0" />
-  <project name="android_hardware_qcom_media-caf-msm8974" path="hardware/qcom/media-caf-msm8974" remote="omnirom" revision="android-6.0" />
-  <project name="android_hardware_qcom_audio-caf-msm8974" path="hardware/qcom/audio-caf-msm8974" remote="omnirom" revision="android-6.0" />
+  <project name="kkfong/android_hardware_qcom_display-caf-msm8974" path="hardware/qcom/display-caf-msm8974" remote="github" revision="android-6.0-cherrypick" />
+  <project name="kkfong/android_hardware_qcom_media-caf-msm8974" path="hardware/qcom/media-caf-msm8974" remote="github" revision="android-6.0-cherrypick" />
+  <project name="kkfong/android_hardware_qcom_audio-caf-msm8974" path="hardware/qcom/audio-caf-msm8974" remote="github" revision="android-6.0-cherrypick" />
   <project name="android_device_qcom_caf-sepolicy" path="device/qcom/sepolicy" remote="omnirom" revision="android-6.0" />
   <project name="android_device_oppo_msm8974-common" path="device/oppo/msm8974-common" remote="omnirom" revision="android-6.0" />
+  <project name="kkfong/android_kernel_oppo_msm8974_omni" path="kernel/oppo/msm8974" remote="github" revision="android-6.0-cherrypick" />
   <project name="android_frameworks_av" path="frameworks/av-caf" remote="omnirom" revision="android-6.0-caf" />
   <project name="android_frameworks_native" path="frameworks/native-caf" remote="omnirom" revision="android-6.0-caf" />
   <project name="android_external_stlport" path="external/stlport" remote="omnirom" revision="android-6.0" />
