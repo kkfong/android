@@ -45,6 +45,6 @@
 
   <!--My local repo-->
   <project path="build" name="kkfong/android_build_omni" remote="github" revision="android-6.0-kk" />
-  <project path="build" name="kkfong/android_hardware_libhardware_omni" remote="github" revision="android-6.0-cherrypick" />
+  <project path="hardware/libhardware" name="kkfong/android_hardware_libhardware_omni" remote="github" revision="android-6.0-cherrypick" />
 
 </manifest>
