@@ -42,9 +42,11 @@
 
   <remove-project name="android_build"/>
   <remove-project name="android_hardware_libhardware"/>
+  <remove-project name="android_vendor_omni"/>
 
   <!--My local repo-->
   <project path="build" name="kkfong/android_build_omni" remote="github" revision="android-6.0-kk" />
   <project path="hardware/libhardware" name="kkfong/android_hardware_libhardware_omni" remote="github" revision="android-6.0-cherrypick" />
+  <project path="vendor/omni" name="kkfong/android_vendor_omni" remote="github" revision="android-6.0-cherrypick" />
 
 </manifest>
